@@ -1,5 +1,7 @@
 # build-a-bot
 
+Sample Vue.js 2 App Following the Pluralsight Vue.js Fundamentals Course
+
 ## Project setup
 ```
 yarn install
